@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/license/route": "app/api/license/route.js",
+  "/api/admin/export/route": "app/api/admin/export/route.js",
+  "/api/tasks/check/referral/route": "app/api/tasks/check/referral/route.js",
+  "/api/tasks/check/visit/route": "app/api/tasks/check/visit/route.js",
+  "/api/tasks/check/telegram/route": "app/api/tasks/check/telegram/route.js",
+  "/api/tasks/route": "app/api/tasks/route.js",
+  "/api/tasks/update/visit/route": "app/api/tasks/update/visit/route.js",
+  "/api/user/referrals/route": "app/api/user/referrals/route.js",
+  "/api/wallet/disconnect/route": "app/api/wallet/disconnect/route.js",
+  "/api/wallet/connect/route": "app/api/wallet/connect/route.js",
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/refill-energy/route": "app/api/refill-energy/route.js",
+  "/api/sync/route": "app/api/sync/route.js",
+  "/api/upgrade/energy-limit/route": "app/api/upgrade/energy-limit/route.js",
+  "/api/upgrade/mine/route": "app/api/upgrade/mine/route.js",
+  "/api/upgrade/multitap/route": "app/api/upgrade/multitap/route.js",
+  "/api/user/route": "app/api/user/route.js",
+  "/clicker/page": "app/clicker/page.js"
+}
