@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"components\\\\Loading.tsx -> @twa-dev/sdk":{"id":141,"files":["static/chunks/141.2684c1d9fd399480.js"]}}';
